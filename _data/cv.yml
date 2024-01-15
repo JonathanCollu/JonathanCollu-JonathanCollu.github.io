@@ -2,9 +2,9 @@
   type: map
   contents:
     - name: Full Name
-      value: Riccardo Majellaro
+      value: Jonathan Collu
     - name: Email
-      value: riccardomajellaro [at] gmail [dot] com
+      value: jonathancollu1998 [at] gmail [dot] com
 
 - title: Education
   type: time_table
@@ -13,28 +13,11 @@
       institution: Leiden University, Leiden, Netherlands
       year: sep 2021 - jul 2023
       description:
-        - Cum Laude
-        - Thesis:&nbsp;"Disentangling Shape and Texture Dimensions in Object-Centric Representations"
-        - title: Courses
-          contents:
-            - Introduction to Machine Learning
-            - Statistical Learning
-            - Introduction to Deep Learning
-            - Advances in Deep Learning
-            - Reinforcement Learning
-            - Seminar Advanced Deep Reinforcement Learning
-            - Text Mining
-            - Advances in Data Mining
-            - Automated Machine Learning
-            - Multicriteria Optimization and Decision Analysis
-            - Evolutionary Algorithms
-            - Robotics
-            - Modern Game AI Algorithms
-    - title: BSc Computer Engineering
-      institution: University of Modena and Reggio Emilia, Modena, Italy
-      year: sep 2017 - oct 2020
-      description:
-        - Thesis:&nbsp;"Distributed Training of DETR on Marconi100"
+        - GPA 8.6/10
+        - Thesis:&nbsp;"On the Efficiency and Roboustness of Structured World Models"
+    - title: BSc Computer Science
+      institution: La Sapienza University, Roma, Italy
+      year: sep 2017 - dec 2020"
 
 - title: Experience
   type: time_table
@@ -45,11 +28,18 @@
       description:
         - Teaching assistant for the MSc course "Reinforcement Learning" taught by Prof. Aske Plaat
         - Correcting and grading assignments. Helping students via email and during workgroup sessions
+    - title: Teaching Assistant
+      institution: LIACS, Leiden University
+      year: sep 2023 - feb 2023
+      description:
+        - Teaching assistant for the MSc course "Automated Machine Learning" taught by Prof. Jan Van Rijn
+        - Correcting and grading assignments. Helping students via email and during workgroup sessions
+    
 
 - title: Languages
   type: list
   contents:
-    - Italian (native), English (fluent)
+    - Italian (native), English (fluent), Spanish (fair)
 
 # - title: Open Source Projects
 #   type: time_table
