@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Graduated from the MSc in Computer Science at Leiden University with a final GPA of 8.6/10. The paper extracted from my thesis has been submitted to a top ML conference.
+Graduated cum laude from the MSc in Computer Science at Leiden University. The paper extracted from my thesis has been submitted to a top ML conference.
