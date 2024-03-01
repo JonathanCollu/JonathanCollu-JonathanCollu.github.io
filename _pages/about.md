@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I received my master's degree (GPA 8.6/10) in Computer Science, specialization in Artificial Intelligence, at [Leiden University](https://www.universiteitleiden.nl/en) in 2023. Earlier, I completed my bachelor's degree in Computer Science at  [La Sapienza University of Rome](https://www.uniroma1.it/en/pagina-strutturale/home).
+I received my master's degree (cum laude) in Computer Science, specialization in Artificial Intelligence, at [Leiden University](https://www.universiteitleiden.nl/en) in 2023. Earlier, I completed my bachelor's degree in Computer Science at  [La Sapienza University of Rome](https://www.uniroma1.it/en/pagina-strutturale/home).
 
 My primary research interests lie in Reinforcement Learning, particularly focusing on model-based and hierarchical RL, as well as Computer Vision, with a specific emphasis on its applications in decision-making problems.
 
